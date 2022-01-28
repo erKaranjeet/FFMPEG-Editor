@@ -1,5 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/work/FFMPEG-Editor/app/src/main/res/drawable/background_dialog.xml" value="0.123" />
+        <entry key="..\:/work/FFMPEG-Editor/app/src/main/res/drawable/background_dialog_singlebutton_selector.xml" value="0.123" />
+        <entry key="..\:/work/FFMPEG-Editor/app/src/main/res/drawable/background_dialogsingleoptionpressed.xml" value="0.123" />
+        <entry key="..\:/work/FFMPEG-Editor/app/src/main/res/drawable/background_redheaderdialog.xml" value="0.123" />
+        <entry key="..\:/work/FFMPEG-Editor/app/src/main/res/drawable/compress_video_pressed.xml" value="0.123" />
+        <entry key="..\:/work/FFMPEG-Editor/app/src/main/res/drawable/compress_video_selector.xml" value="0.123" />
+        <entry key="..\:/work/FFMPEG-Editor/app/src/main/res/drawable/compress_video_unpressed.xml" value="0.123" />
+        <entry key="..\:/work/FFMPEG-Editor/app/src/main/res/drawable/crop_audio_pressed.xml" value="0.123" />
+        <entry key="..\:/work/FFMPEG-Editor/app/src/main/res/drawable/crop_audio_unpressed.xml" value="0.123" />
+        <entry key="..\:/work/FFMPEG-Editor/app/src/main/res/drawable/crop_video_pressed.xml" value="0.123" />
+        <entry key="..\:/work/FFMPEG-Editor/app/src/main/res/drawable/crop_video_selector.xml" value="0.123" />
+        <entry key="..\:/work/FFMPEG-Editor/app/src/main/res/drawable/crop_video_unpressed.xml" value="0.123" />
+        <entry key="..\:/work/FFMPEG-Editor/app/src/main/res/drawable/extract_audio_selector.xml" value="0.123" />
+        <entry key="..\:/work/FFMPEG-Editor/app/src/main/res/drawable/extract_images_pressed.xml" value="0.123" />
+        <entry key="..\:/work/FFMPEG-Editor/app/src/main/res/drawable/extract_images_selector.xml" value="0.123" />
+        <entry key="..\:/work/FFMPEG-Editor/app/src/main/res/drawable/extract_images_unpressed.xml" value="0.123" />
+        <entry key="..\:/work/FFMPEG-Editor/app/src/main/res/drawable/fade_effect_pressed.xml" value="0.123" />
+        <entry key="..\:/work/FFMPEG-Editor/app/src/main/res/drawable/fade_effect_unpressed.xml" value="0.123" />
+        <entry key="..\:/work/FFMPEG-Editor/app/src/main/res/drawable/fade_video_selector.xml" value="0.123" />
+        <entry key="..\:/work/FFMPEG-Editor/app/src/main/res/drawable/increase_speed_pressed.xml" value="0.123" />
+        <entry key="..\:/work/FFMPEG-Editor/app/src/main/res/drawable/increase_speed_selector.xml" value="0.123" />
+        <entry key="..\:/work/FFMPEG-Editor/app/src/main/res/drawable/increase_speed_unpressed.xml" value="0.123" />
+        <entry key="..\:/work/FFMPEG-Editor/app/src/main/res/drawable/reverse_video_pressed.xml" value="0.123" />
+        <entry key="..\:/work/FFMPEG-Editor/app/src/main/res/drawable/reverse_video_selector.xml" value="0.123" />
+        <entry key="..\:/work/FFMPEG-Editor/app/src/main/res/drawable/reverse_video_unpressed.xml" value="0.123" />
+        <entry key="..\:/work/FFMPEG-Editor/app/src/main/res/drawable/slow_video_pressed.xml" value="0.123" />
+        <entry key="..\:/work/FFMPEG-Editor/app/src/main/res/drawable/slow_video_selector.xml" value="0.123" />
+        <entry key="..\:/work/FFMPEG-Editor/app/src/main/res/drawable/slow_video_unpressed.xml" value="0.123" />
+        <entry key="..\:/work/FFMPEG-Editor/app/src/main/res/drawable/upload_video_pressed.xml" value="0.123" />
+        <entry key="..\:/work/FFMPEG-Editor/app/src/main/res/drawable/upload_video_selector.xml" value="0.123" />
+        <entry key="..\:/work/FFMPEG-Editor/app/src/main/res/drawable/upload_video_unpressed.xml" value="0.123" />
+        <entry key="..\:/work/FFMPEG-Editor/app/src/main/res/layout/activity_audio_preview.xml" value="0.209375" />
+        <entry key="..\:/work/FFMPEG-Editor/app/src/main/res/layout/activity_gallery.xml" value="0.209375" />
+        <entry key="..\:/work/FFMPEG-Editor/app/src/main/res/layout/activity_main.xml" value="0.1953125" />
+        <entry key="..\:/work/FFMPEG-Editor/app/src/main/res/layout/activity_preview.xml" value="0.209375" />
+        <entry key="..\:/work/FFMPEG-Editor/app/src/main/res/layout/dialog_singleoption_text.xml" value="0.1" />
+        <entry key="..\:/work/FFMPEG-Editor/app/src/main/res/layout/item_gallery.xml" value="0.209375" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
